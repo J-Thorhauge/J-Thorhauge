@@ -1,8 +1,8 @@
 - 👋 Hi, I’m dumb
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m not looking to collaborate
+- 📫 Don't try to reach me
 
 <!---
 J-Thorhauge/J-Thorhauge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
