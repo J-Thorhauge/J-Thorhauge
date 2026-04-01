@@ -1,6 +1,11 @@
-Robotics Engineer MSc at Aalborg University.
+Robotics MSc from Aalborg University. 
+
+Robotics Engineer at Tess Space.
+
 Manipulator Lead at AAU Space Robotics.
+
 Robotics enthusiast.
+
 Keeper of Arcane Lore.
 
 <!---
