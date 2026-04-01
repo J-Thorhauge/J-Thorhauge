@@ -1,8 +1,7 @@
-- 👋 Hi, I’m dumb
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning nothing
-- 💞️ I’m not looking to collaborate
-- 📫 Don't try to reach me
+Robotics Engineer MSc at Aalborg University.
+Manipulator Lead at AAU Space Robotics.
+Robotics enthusiast.
+Keeper of Arcane Lore.
 
 <!---
 J-Thorhauge/J-Thorhauge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
