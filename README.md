@@ -2,7 +2,7 @@ Robotics MSc from Aalborg University.
 
 Robotics Engineer at Tess Space.
 
-Manipulator Lead at AAU Space Robotics.
+Founding member of AAU Space Robotics.
 
 Robotics enthusiast.
 
