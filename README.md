@@ -1,12 +1,12 @@
-Robotics MSc from Aalborg University. 
+- Robotics MSc from Aalborg University. 
 
-Robotics Engineer at Tess Space.
+- Robotics Engineer at Tess Space.
 
-Founding member of AAU Space Robotics.
+- Founding member of AAU Space Robotics.
 
-Robotics enthusiast.
+- Robotics enthusiast.
 
-Keeper of Arcane Lore.
+- Keeper of Arcane Lore.
 
 <!---
 J-Thorhauge/J-Thorhauge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
