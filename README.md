@@ -1,11 +1,7 @@
 - Robotics MSc from Aalborg University. 
-
 - Robotics Engineer at Tess Space.
-
 - Founding member of AAU Space Robotics.
-
 - Robotics enthusiast.
-
 - Keeper of Arcane Lore.
 
 <!---
